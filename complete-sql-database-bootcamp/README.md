@@ -48,6 +48,13 @@ What we will learn
 Confusing Acronyms
 
 - Database Management System (`DBMS`)
-- Relational DataBase Management System (`RDBMS`): a way for interact
-  with data such as MySQL, PostgreSQL,...
+- Relational DataBase Management System (`RDBMS`): a way to interact with data such as MySQL, PostgreSQL,...
 - Structured Query Language (`SQL`)
+
+### 1.1.2. Type of Databases
+
+- Relational models, support something called `active transaction`
+- Document models, `MongoDB`, `firebase`,...
+- Key - value: `redis`
+- Graph: social network,...
+- Wide Columnar
